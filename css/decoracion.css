@@ -1,0 +1,357 @@
+/*movil*/
+
+@media (max-width: 575px) {
+
+nav .Venezuela  {display: none;}
+nav .Venezuelaa {align-items: center; height: 2vh; width: 1vw ;  }
+h1 h2 h3 h4 p {height: 2vh; width: 1vw; }
+header {height: 10vh; width: 97vw;}
+header .buenas  {height: 79vh; width: 97vw;}
+header .des  {height: 79vh; width: 97vw;}
+header .tuu  {height: 79vh; width: 97vw;}
+section .iframe {height: 60vh; width: 97vw; }
+section .abasto {display: none;}
+section .lia {display: none;}
+section .card1l {height: 80vh; width: 97vw; }
+section .card1  {height: 80vh; width: 97vw; }
+section .card2 {display: none; }
+section .card3 {display: none;}
+span .mapa {display: none;}
+footer .gif {display: none;}
+footer .gmail { width: 10vw; }
+footer .inspng { width: 10vw; }
+footer .youu { width: 10vw; }
+footer  {height: 10px;}
+
+}
+
+/*Tablet*/
+
+@media (max-width: 991px ) {
+
+  nav .Venezuela  {display: none;}
+  nav .Venezuelaa {align-items: center; height: 2vh; width: 1vw ;  }
+  h1 h2 h3 h4 p {height: 4vh; width: 2vw; }
+  header {height: 20vh; width: 97vw;}
+  header .buenas  {height: 79vh; width: 97vw;}
+  header .des  {height: 79vh; width: 97vw;}
+  header .tuu  {height: 79vh; width: 97vw;}
+  section .iframe {height: 60vh; width: 97vw; }
+  section .abasto {display: none;}
+  section .lia {display: none;}
+  section .card1l {height: 10vh; width: 20vw; top: 90%}
+  section .card1  {height: 10vh; width: 20vw; }
+  section .card2 {height: 10vh; width: 20vw; }
+  section .card3 {display: none;}
+  span .mapa {display: none;}
+  footer .gif {display: none;}
+  footer .gmail { width: 10vw; }
+  footer .inspng { width: 10vw; }
+  footer .youu { width: 10vw; }
+
+}
+
+@media  (max-width: 991px ) {}
+ footer  { width: 10vw; }
+
+
+main {
+  height: 30px;
+  background-color: green;
+}
+
+
+
+h4,p {color:white;}
+
+nav {float:none;
+margin: 1px;
+  height: 100px;
+}
+
+.Venezuela {
+  padding: 10px;
+  border-radius: 20px;
+  margin-bottom: 10px;
+  border: 1px solid #1f53c5;
+  color: black;
+  margin: 10px 0;
+  background-color: #C2C1C1;
+  text-align: center;
+  top: 100%;
+  float: right;
+
+
+}
+
+.navi {
+
+  align-items: center;
+}
+
+.Venezuela:hover {
+
+  background-color: #ADADAD;
+  font-size: 17px;
+
+
+}
+
+
+.Venezuelaa {
+  padding: 10px;
+  border-radius: 20px;
+  margin-bottom: 10px;
+  border: 1px solid #1f53c5;
+  color: black;
+  margin: 10px 0;
+  background-color: #C2C1C1;
+  text-align: right;
+  top: 100%;
+  float: right;
+
+
+}
+
+
+.Venezuelaa:hover {
+
+  background-color: #ADADAD;
+  font-size: 17px;
+
+
+}
+
+
+.pai {
+
+}
+
+.logoss {
+  float: right;
+}
+
+.logo {
+
+  float: left;
+}
+
+
+.tips {
+  padding: 10px;
+  border-radius: 20px;
+  margin-bottom: 10px;
+  border: 1px solid #1f53c5;
+  color: black;
+  margin: 10px 0;
+  background-color: #C2C1C1;
+  text-align: center;
+  top: 100000px;
+  float:right;
+
+}
+
+
+
+.id {
+
+  height: auto;
+}
+
+
+
+
+.ins {
+ height: 163px;
+
+}
+
+
+h2 {
+  font-size: 20px;
+
+}
+
+ .carousel {
+
+   height: 100px
+ }
+
+ span.mapa {
+   float: left;
+   width: 10px;
+   height: 150px;
+   background-color: #C2C1C1;
+   margin: 1%;
+   overflow: auto;
+   border: 2px solid #1f53c5;
+ }
+
+footer  {
+
+   text-decoration-color: black;
+   background-color: black;
+   width: 1347px;
+   height: 300px;
+   border: 2px solid #1f53c5;
+
+}
+
+.hec {
+  color:white;
+}
+
+
+.turi {
+
+  align-items: left;
+}
+
+
+aside {
+
+}
+
+section {
+  height: 1000px;
+}
+
+.inspng {
+
+    float: left;
+    height: 60px;
+
+
+}
+
+.gmail {
+
+  float: left;
+  height: 40px;
+
+}
+
+.youu {
+
+ float: left;
+ height: 60px;
+
+}
+
+.hh {
+
+    height: 10px;
+
+}
+
+.YouTube{
+
+  float: left;
+  align-items: center;
+}
+
+.YouTube1{
+
+  float: right;
+  align-items: center;
+
+}
+
+.le {
+    color: black;
+    background-color: #C2C1C1;
+    box-shadow: 7px 13px 37px #000;
+    border: 2px solid #1f53c5;
+
+}
+.des {
+
+    height: 490px;
+    width: 1500px;
+}
+
+.tuu {
+
+height: 490px;
+width: 1500px;
+
+}
+
+.buenas{
+
+height: 490px;
+width: 1500px;
+}
+
+
+.card-text {
+
+ color: black;
+
+}
+
+.lia {
+  color: black;
+  background-color: #C2C1C1;
+  box-shadow: 7px 13px 37px #000;
+  border: 2px solid #1f53c5;
+
+}
+
+.lea {
+
+   color: black;
+
+}
+header {
+  border: 5px solid #1f53c5;
+  height: 500px;
+}
+
+
+.o {
+  height: 800px;
+}
+
+
+
+/*Card*/
+.card1l {
+  margin: 10px;
+  float: left;
+  align-items: left;
+  border: 1px solid black;
+}
+
+.card3 {
+  margin: 10px;
+  float: right;
+  align-items: right;
+  border: 1px solid black;
+}
+
+
+
+.avion {
+
+  align-items: center;
+}
+
+.card1 {
+margin: 10px;
+  float: right;
+  align-items: center;
+border: 1px solid black;
+
+
+}
+.card2 {
+margin: 10px;
+  float: left;
+  align-items: right;
+  border: 1px solid black;
+}
+
+.buen {
+  color: white;
+}
