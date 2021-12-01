@@ -4,24 +4,23 @@
 
 nav .Venezuela  {display: none;}
 nav .Venezuelaa {align-items: center; height: 2vh; width: 1vw ;  }
-h1 h2 h3 h4 p {height: 2vh; width: 1vw; }
-header {height: 10vh; width: 97vw;}
-header .buenas  {height: 79vh; width: 97vw;}
-header .des  {height: 79vh; width: 97vw;}
-header .tuu  {height: 79vh; width: 97vw;}
-section .iframe {height: 60vh; width: 97vw; }
+h1 h2 h3 h4 p {height: 1vh; width: 0.1vw; }
+header {height: 60vh; width: 118vw;}
+header .buenas  {height: 77vh; width: 120vw;}
+header .des  {height: 77vh; width: 120vw;}
+header .tuu  {height: 77vh; width: 120vw;}
+section .iframe {height: 20vh; width: 77vw; }
 section .abasto {display: none;}
 section .lia {display: none;}
+section .le {height: 20vh; width: 100vw;}
 section .card1l {height: 80vh; width: 97vw; }
-section .card1  {height: 80vh; width: 97vw; }
+section .card1  {align-items: center;  height: 80vh; width: 97vw; }
 section .card2 {display: none; }
 section .card3 {display: none;}
 span .mapa {display: none;}
 footer .gif {display: none;}
-footer .gmail { width: 10vw; }
-footer .inspng { width: 10vw; }
-footer .youu { width: 10vw; }
-footer  {display:none;}
+footer {display:none;}
+main {height: 790vh; width: 120vw;}
 
 }
 
